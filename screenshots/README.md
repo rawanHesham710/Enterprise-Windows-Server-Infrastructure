@@ -5,7 +5,7 @@
 
 The virtual lab environment consisting of multiple Windows Server virtual machines used to simulate an enterprise network infrastructure.
 
-![VMware Lab](screenshots/VMware-lab.png)
+![VMware Lab](./screenshots/VMware-lab.png)
 
 ---
 
